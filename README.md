@@ -20,10 +20,6 @@ Course Repository SI7016 Applied Natural Language Processing at Universidad EAFI
 ### w7. Agents
 ### w8. Apps
 
-## Roadmap of the course
-
-## We will learn in this course:
-
 ## Evaluation
 | **Event** | Topic  |
 | -------------- | -------------------------------- |
@@ -35,13 +31,9 @@ Course Repository SI7016 Applied Natural Language Processing at Universidad EAFI
 
 # Resources:
 * Computational resources: I strongly recommend creating (free) accounts on the following platforms:
-
-  
-* NLP books:
  
-## Lectures
-  
-- [Lecture01 - Introduction to NLP](/lecture01/)
+* NLP books:
+
 
 
 
