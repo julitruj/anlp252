@@ -1,4 +1,3 @@
-[![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE)
 # SI7016 - Applied Natural Language Processing
 
 Course Repository SI7016 Applied Natural Language Processing at Universidad EAFIT
